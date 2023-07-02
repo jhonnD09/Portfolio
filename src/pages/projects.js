@@ -192,7 +192,7 @@ function projects() {
                 summary="Es un sitio web, rica en funciones que utiliza NextJS, 
                 JavaScript, React, TailwindCSS y más. Muestra información sobre mí y mis proyectos realizados ."
                 link="/"
-                gitHub="/"
+                gitHub="https://github.com/jhonnD09/Portfolio"
               />
             </div>
           </div>
