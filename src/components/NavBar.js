@@ -1,7 +1,9 @@
 import React, { useState } from "react";
 import Link from "next/link";
-import Logo from "./Logo";
+import Image from "next/image";
 import { useRouter } from "next/router";
+import Logo from "./Logo";
+import TwiterNew from "../../public/images/twitter_mix.gif";
 import {
   CircularText,
   DribbbleIcon,
@@ -114,7 +116,8 @@ const NavBar = () => {
             whileTap={{ scale: 0.9 }}
             className="w-6 mx-3"
           >
-            <TwitterIcon />
+            {/* <TwitterIcon /> */}
+            <Image src={TwiterNew} alt="Twiter" />
           </motion.a>
           <motion.a
             href="https://github.com/jhonnD09"
@@ -187,7 +190,8 @@ const NavBar = () => {
               whileTap={{ scale: 0.9 }}
               className="w-6 mx-3 sm:mx-1"
             >
-              <TwitterIcon />
+              {/* <TwitterIcon /> */}
+              <Image src={TwiterNew} alt="Twiter" />
             </motion.a>
             <motion.a
               href="https://github.com/jhonnD09"

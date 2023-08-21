@@ -38,16 +38,12 @@ const about = () => {
   return (
     <>
       <Head>
-        <title>About page </title>
+        <title>Jhonn Diaz | About page</title>
         <meta name="description" content="any description" />
       </Head>
       <TransitionEffect />
       <main className="flex w-full items-center justify-center dark:text-light ">
         <Layout className="pt-16">
-          {/* <AnimateText
-            text="Passion Fuels Purpose!"
-            className="mb-16 lg:!text-7xl sm:!text-6xl xs:!text-4xl sm:mb-8 "
-          /> */}
           <AnimateText
             text="La pasión Alimenta el propósito!"
             className="mb-16 lg:!text-7xl sm:!text-6xl xs:!text-4xl sm:mb-8 "
@@ -111,7 +107,7 @@ const about = () => {
               </div>
               <div className="flex flex-col items-end justify-between xl:items-center">
                 <span className="font-bold inline-block text-7xl sm:text-5xl xs:text-4xl">
-                  <AnimateNumbers value={8} />+
+                  <AnimateNumbers value={9} />+
                 </span>
                 <h2
                   className="text-x1 font-medium capitalize text-dark/75 dark:text-light/75 

@@ -70,7 +70,7 @@ function Experience() {
             En este proyecto trabajé como desarrollador Front-end, la experiencia de usuario y en el 
             desarrollo de componentes utilizados en distintas vistas, además estuve involucrado en 
             la creación del dashboard, estilos y actualización del producto. Se utilizó el marco de 
-            trabajo de la metodología ágil Scrum"
+            trabajo de la metodología ágil Scrum."
           />
         </ul>
       </div>
