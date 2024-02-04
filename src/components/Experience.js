@@ -73,6 +73,19 @@ function Experience() {
             trabajo de la metodología ágil Scrum."
           />
         </ul>
+        <ul className="w'full flex flex-col justify-between items-start ml-4 mt-6 xs:ml-2">
+          <Details
+            position="Desarrollador Web Front End (Freelance)"
+            company="RitaUttara"
+            time="Ago. 2023 - Actualamente"
+            address="Ritauttara"
+            companyLink={"https://www.linkedin.com/company/rita-uttara/"}
+            work="Trabajo en un proyecto que consiste en el desarrollo de una plataforma de salud basada en la medicina ayurvédica.
+            Se creó un sistema de registro y perfiles de usuario que recopila información relevante para guiar recomendaciones
+            personalizadas. Se diseñó un cuestionario detallado para evaluar la salud y preferencias, generando informes descargables 
+            con recomendaciones específicas según los principios del ayurveda. "
+          />
+        </ul>
       </div>
     </div>
   );

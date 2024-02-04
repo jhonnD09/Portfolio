@@ -19,6 +19,7 @@ const Logo = () => {
             "rgba(252,176,69,1)",
             "rgba(131,58,180,1)",
             "#121212",
+            "#008B8B",
           ],
           transition: { duration: 1, repeat: Infinity },
         }}

@@ -99,7 +99,7 @@ const about = () => {
               </div>
               <div className="flex flex-col items-end justify-between xl:items-center">
                 <span className="font-bold inline-block text-7xl sm:text-5xl xs:text-4xl">
-                  <AnimateNumbers value={4} />+
+                  <AnimateNumbers value={5} />+
                 </span>
                 <h2 className="text-x1 font-medium capitalize text-dark/75 dark:text-light/75 xl:text-center md:text-lg sm:text-base xs:text-sm ">
                   Proyectos
@@ -107,13 +107,13 @@ const about = () => {
               </div>
               <div className="flex flex-col items-end justify-between xl:items-center">
                 <span className="font-bold inline-block text-7xl sm:text-5xl xs:text-4xl">
-                  <AnimateNumbers value={9} />+
+                  <AnimateNumbers value={12} />+
                 </span>
                 <h2
                   className="text-x1 font-medium capitalize text-dark/75 dark:text-light/75 
                 xl:text-center md:text-lg sm:text-base xs:text-sm "
                 >
-                  Experiencia (meses)
+                  Experiencia Freelance (meses)
                 </h2>
               </div>
             </div>

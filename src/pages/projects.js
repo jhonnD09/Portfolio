@@ -9,6 +9,7 @@ import Projects1 from "../../public/images/projects/TukiMarkett.png";
 import PortfolioImg from "../../public/images/projects/PorfolioImg.png";
 import Project3 from "../../public/images/projects/Gming-page.png";
 import Project4 from "../../public/images/projects/App-Rick.png";
+import Ritauttara from "../../public/images/projects/Ritauttara.png";
 import { motion } from "framer-motion";
 import TransitionEffect from "../components/TransitionEffect";
 
@@ -153,6 +154,18 @@ function projects() {
           />
 
           <div className="grid grid-cols-12 gap-24 gap-y-32 xl:gap-x-16 lg:gap-x-8 md:gap-y-24 sm:gap-x-0  ">
+            <div className=" col-span-12">
+              <FeacturedProjects
+                type="Aplicación Web"
+                title="Rita Uttara"
+                img={Ritauttara}
+                summary="El proyecto consistió en el desarrollo de una plataforma de salud basada en la medicina ayurvédica.
+                 Se creó un sistema de registro y perfiles de usuario que recopila información relevante para guiar recomendaciones personalizadas.
+                  Se diseñaron una serie de cuestionarios detallados para evaluar la salud y preferencias, generando informes descargables con recomendaciones específicas según los principios del ayurveda. "
+                link="https://ritauttara.netlify.app/"
+                gitHub="https://ritauttara.netlify.app/"
+              />
+            </div>
             <div className=" col-span-12">
               <FeacturedProjects
                 type="Aplicación Web"
