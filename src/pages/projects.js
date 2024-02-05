@@ -9,7 +9,7 @@ import Projects1 from "../../public/images/projects/TukiMarkett.png";
 import PortfolioImg from "../../public/images/projects/PorfolioImg.png";
 import Project3 from "../../public/images/projects/Gming-page.png";
 import Project4 from "../../public/images/projects/App-Rick.png";
-import Ritauttara from "../../public/images/projects/Ritauttara.png";
+import Ritauttara from "../../public/images/projects/RitaUttara.png";
 import { motion } from "framer-motion";
 import TransitionEffect from "../components/TransitionEffect";
 
